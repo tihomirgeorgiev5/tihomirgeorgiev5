@@ -1,5 +1,5 @@
-### Hello there 👋
-I'm Tihomir
+### Hello there 👋 I'm Tihomir
+
 
 Student in SoftUni from Varna, Bulgaria
 
