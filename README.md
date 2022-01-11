@@ -3,7 +3,7 @@
 
 Student in SoftUni from Varna, Bulgaria
 
-src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/codefactor.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/coffeescript.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/glint.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jasmine.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="55" 
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/codefactor.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/coffeescript.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/glint.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jasmine.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="55" 
 
 - 🔭 I’m currently working on becoming a Full Stack Web Developer
 - 🌱 I’m currently learning Software Engineering with C# in SoftUni
