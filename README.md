@@ -3,7 +3,7 @@
 
 Student in SoftUni from Varna, Bulgaria
 
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/csharp.svg"/><img width="55"  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c#.svg"/><img width="55"  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
 
 - 🔭 I’m currently working on becoming a Full Stack Web Developer
 - 🌱 I’m currently learning Software Engineering with C# in SoftUni
