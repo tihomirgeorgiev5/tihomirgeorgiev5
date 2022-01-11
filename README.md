@@ -1,5 +1,4 @@
 ### Hello there 👋 I'm Tihomir
-
 Student in SoftUni from Varna, Bulgaria
 
 - 🔭 I’m currently working on becoming a Full Stack Web Developer
