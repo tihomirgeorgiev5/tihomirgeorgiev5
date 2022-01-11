@@ -3,6 +3,8 @@
 
 Student in SoftUni from Varna, Bulgaria
 
+<div align="center"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/><img width="55" 
+
 - 🔭 I’m currently working on becoming a Full Stack Web Developer
 - 🌱 I’m currently learning Software Engineering with C# in SoftUni
 - 👯 I’m looking to collaborate on Creating Web Applications
